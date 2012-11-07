@@ -1,0 +1,9 @@
+{
+  "name": "bootstrap-datepicker",
+  "description": "Meteor packaging of bootstrap-datepicker",
+  "homepage": "https://github.com/acidsound/bootstrap-datepicker",
+  "author": "Lee jae ho (https://github.com/acidsound)",
+  "version": "0.5.0",
+  "git": "https://github.com/acidsound/bootstrap-datepicker.git",
+  "packages": {}
+}
