@@ -10,6 +10,7 @@ All rights to bootstrap-datepicker are with the original author
 Example
 ============
 in handlebars template
-    Template.hero.rendered=function() {
+
+    Template.mytemplate.rendered=function() {
     	$('.datepicker').datepicker();
-  	}
+    }
