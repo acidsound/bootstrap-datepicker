@@ -1,3 +1,0 @@
-[submodule "lib/bootstrap-datepicker"]
-	path = lib/bootstrap-datepicker
-	url = git://github.com/teddyhwang/bootstrap-datepicker.git

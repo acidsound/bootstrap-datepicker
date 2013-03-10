@@ -1,5 +1,5 @@
 Package.describe({
-  summary: ''
+  summary: 'Meteor packaging of bootstrap-datepicker'
 });
 
 Package.on_use(function (api, where) {
